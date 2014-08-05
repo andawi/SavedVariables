@@ -1,0 +1,46 @@
+
+CliqueDB = nil
+CliqueDB3 = {
+	["char"] = {
+		["Sergath - Lost Isles (US)"] = {
+			["sec_profileKey"] = "Sergath - Lost Isles (US)",
+			["fastooc"] = false,
+			["alerthidden"] = true,
+			["downclick"] = false,
+			["pri_profileKey"] = "Sergath - Lost Isles (US)",
+			["specswap"] = false,
+		},
+	},
+	["profileKeys"] = {
+		["Sergath - Lost Isles (US)"] = "Sergath - Lost Isles (US)",
+	},
+	["profiles"] = {
+		["Sergath - Lost Isles (US)"] = {
+			["bindings"] = {
+				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+				{
+					["macrotext"] = "/cast [@mouseover] Heal",
+					["type"] = "macro",
+					["key"] = "SHIFT-BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [3]
+			},
+		},
+	},
+}

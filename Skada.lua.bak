@@ -1,0 +1,19 @@
+
+SkadaDB = {
+	["hasUpgraded"] = true,
+	["profileKeys"] = {
+		["Sergath - Lost Isles (US)"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["y"] = 74.00045013427736,
+					["mode"] = "Enemy damage taken",
+					["point"] = "BOTTOMRIGHT",
+					["x"] = -12.0003662109375,
+				}, -- [1]
+			},
+		},
+	},
+}

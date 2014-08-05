@@ -1,0 +1,15 @@
+
+TipTac_Config = {
+	["mouseOffsetX"] = 50.44123840332032,
+	["anchorWorldUnitType"] = "mouse",
+	["targetYouText"] = "<<YOU>>",
+	["anchorWorldUnitPoint"] = "TOPLEFT",
+	["top"] = 463.999969482422,
+	["optionsLeft"] = 924.0001220703124,
+	["anchorFrameTipType"] = "mouse",
+	["anchorFrameTipPoint"] = "TOPLEFT",
+	["left"] = 67.0000457763672,
+	["optionsBottom"] = 283,
+	["anchorFrameUnitType"] = "mouse",
+	["anchorFrameUnitPoint"] = "TOPLEFT",
+}
